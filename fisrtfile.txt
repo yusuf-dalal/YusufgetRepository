@@ -3,4 +3,14 @@ gbfhasdj  nsfjka
 sahcdbs hjunasuin hasuij snhuiasjxcui hsaduiasi shduashcdi
 
 
+
 this data is came from remote master 
+{
+change 1
+ change2 
+change 3
+}
+
+this is came from monika i.e bug1{
+E is coming from remote master
+}
