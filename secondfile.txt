@@ -8,4 +8,7 @@ new cahnges
 
 modified in git hub and pushed into repository
 
+
 change - conflict one rebase changes
+change - in local desktop
+ msg for last updatetion
